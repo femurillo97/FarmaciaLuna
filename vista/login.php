@@ -40,7 +40,9 @@
             <a href="#">¿Olvidaste tu contraseña?</a>
             <input type="submit" class="btn" value="Iniciar Sesión">
             <a href="registro.php">Registrarse</a>
-        </form>    
+        </form>
+        
+        <script src="../js/login.js"></script>
 
     </body>
 </html>
